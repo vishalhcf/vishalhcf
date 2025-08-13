@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi%F0%9F%91%8B%2C+I'm+Vishal+Kumar!;Aspiring+ML+Engineer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing Animation" />
 </p>
 
+<!-- Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=vishalhcf&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views" /> 
+</p>
+
 ---
 
 <!-- Coding GIF -->
@@ -27,6 +32,21 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalhcf&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalhcf&theme=radical&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalhcf&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
 ## 📌 Featured Projects
 | Name | Tech Used | Link |
 |------|-----------|------|
@@ -36,17 +56,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Random Dev Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalhcf&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalhcf&theme=radical&hide_border=true" height="150"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 😂 Random Programming Meme
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalhcf&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://random-memer.herokuapp.com/" width="400"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Rainbow)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation Rainbow" />
 </p>
 
 ---
@@ -55,10 +81,4 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-kumar-537116270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vishalkumar@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
