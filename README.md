@@ -1,54 +1,64 @@
-<!-- Profile Header -->
-<h1 align="center">
-  🚀 Hey, I'm Vishal Kumar  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<h3 align="center">
-  💻 Full Stack Developer | ☁️ Cloud & ML Enthusiast | 🎯 Problem Solver
-</h3>
-
----
-
-<!-- Cool Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Developer-FF5733?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-0077B6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loves-Coding-FFC300?style=for-the-badge&logo=github&logoColor=black" />
-</p>
-
----
-
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World!+🌍;Passionate+about+Tech+and+Innovation;Building+Future+with+Code+🚀;Always+Learning+New+Things+📚">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi%F0%9F%91%8B%2C+I'm+Vishal+Kumar!;Aspiring+ML+Engineer;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing Animation" />
 </p>
 
 ---
 
-<!-- Skills -->
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" alt="Coding Animation" />
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 **B.Tech Student @ Chitkara University**
+- 💡 Passionate about **Machine Learning** & **Big Data**
+- 🛠 Building projects in **MERN Stack**, **Python**, and **Java**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/vishal-kumar-537116270/)**
+
+---
+
 ## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs,mongodb,mysql,git,github,aws&perline=7" />
 </p>
 
 ---
 
-<!-- GitHub Stats -->
+## 📌 Featured Projects
+| Name | Tech Used | Link |
+|------|-----------|------|
+| 📚 **Book Exchange Platform** | HTML, CSS | [Repo](https://github.com/vishalhcf/book-exchange) |
+| 📝 **Daily Work Tracker** | JavaScript | [Repo](https://github.com/vishalhcf/Daily-work) |
+| 📘 **Learn Repo** | JavaScript | [Repo](https://github.com/vishalhcf/learn) |
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalhcf&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishalhcf&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
 
-<!-- Footer -->
+## 📈 Activity Graph
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalhcf&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishal-kumar-537116270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vishalkumar@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
